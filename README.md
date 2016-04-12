@@ -1,4 +1,4 @@
-sidenote-server
+sidenote-server [![Build Status][travis-image]][travis-url]
 ==========
 
 ## The Stack:
@@ -43,3 +43,7 @@ You can run the linter with the project's
 [shared configuration](https://github.com/google/eslint-config-google) by
 running `gulp lint`. The goal of linting the project is to keep a standard
 coding style, please be sure to run it on all PRs!
+
+
+[travis-image]: https://travis-ci.org/tupaje/sidenote-server.svg?branch=master
+[travis-url]: https://travis-ci.org/tupaje/sidenote-server
